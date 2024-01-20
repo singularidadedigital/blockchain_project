@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "crypto-js": "^4.2.0"
+  },
+  "name": "blockchain_project",
+  "description": "projeto de estudo de blockchain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/singularidadedigital/blockchain_project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/singularidadedigital/blockchain_project/issues"
+  },
+  "homepage": "https://github.com/singularidadedigital/blockchain_project#readme"
+}
